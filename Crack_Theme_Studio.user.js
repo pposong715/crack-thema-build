@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Crack Theme Studio
 // @namespace    https://crack.wrtn.ai/
-// @version      0.1.1
+// @version      0.1.2
 // @description  Crack 읽기 영역의 글자와 배경을 꾸미는 독립 테마 편집기
 // @match        https://crack.wrtn.ai/stories/*/episodes/*
 // @match        https://crack.wrtn.ai/characters/*/chats/*
